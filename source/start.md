@@ -1,6 +1,15 @@
 {{Start}}
 
-# Tales from the Yawning Portal
+![img](assets/worldmap.jpg)
 
-Hub. [The Yawning Portal Dungeon]({@YawningPortal1})
-1. [The Sunless Citadel]({@Citadel1})
+[Where we last left off]({@TowerShell})
+
+# Locations
+
+[The Yawning Portal]({@YawningPortal1})
+[Galethspyre]({@Galethspyre1})
+
+# Adventures
+
+(TftYP 1). [The Sunless Citadel]({@Citadel1})
+(AAW A4). Forest for the Trees

@@ -1,29 +1,36 @@
 {{YawningPortal1}}
 
-[Durnin]({@Durnan})
+*Welcome to the Yawning Portal! It's not what you expected.*
+
+(Dingy, the people look sour and scarred, adventure isn't as glamorous as you thought.)
+
+
+[Proprietor: The legendary Durnan]({@Durnan})
 [Kerowyn Hucrele]({@Quest1})
-[Retrieving the body]({@RetrievingTheBody})
+[Retrieving Dumorel]({@RetrievingTheBody})
 
 {{RetrievingTheBody}}
 
-An adventurer dude is sobbing at a table alone. His friend (**We were JUST friends**)
-went down the well into the dungeon out of a drunken dare, and he actually died.
-He needs you to go down there just to retrieve the body
+An adventurer dude (Lamorel) is sobbing at a table alone. His friend Dumorel (**We were JUST friends**)
+went down the well into the dungeon out of a drunken dare, and got badly hurt.
+He needs you to go down there and bring him back, dead or alive.
 
 [Durnan]({@Durnan}) comes down after you and is like, "Don't go further in the dungeon.
 I don't have to do a lot of paperwork when someone dies down here, but
 it's still a non-zero amount, so I don't want anyone else to die tonight, at least."
 
 That's when he makes you go back upstairs and the first mini-dungeon is over.
-When you bring back the corpse, Adventurer dude will already be making out with
+When you bring back the corpse, Lamorel will already be making out with
 another guy. Who has the same lumberjack vibe.
 
 {{Durnan}}
 
+# Durnan
+
 The proprietor of the Yawning Portal is something of an
 enigma. Blessed with a seemingly limitless life span by
-rreasures he brought back from his expedition nearly
-vo centuries ago, he is as much a fixture in the taproom
+treasures he brought back from his expedition nearly
+2 centuries ago, he is as much a fixture in the taproom
 as the well.
 Durnan is a man of few words. He expects to be paid
 for his time, and will offer insight and rumors only in
