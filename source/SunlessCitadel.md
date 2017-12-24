@@ -206,11 +206,8 @@ gone, except for a couple of crumbled ledges.*
 
 **Bodies.** Investigation reveals that the four goblins
 have been dead for quite a while, and rats have gnawed
-at them. The bodies have been looted. If someone removes
-the spear pinning the goblin to the wall, the body
-slumps to reveal Draconic runes on the wall behind it.
-Those who know the Draconic language can read the
-runes as "Ashardalon."
+at them. The bodies have been looted. [If someone removes
+the spear pinning the goblin to the wall]({@pullspear:inline})
 **Secret Door.** A trapped secret door leads to [area 5.]({@HiddenRoom})
 Finding the door requires a successful **DC 20 Wisdom
 (Perception) check.** The door opens by way of a masonry
@@ -229,6 +226,17 @@ saving throw.
 
 [Northwest door]({@JustAHallway})
 [Southwest door]({@OldApproach})
+
+{{pullspear}}
+
+the body
+slumps to reveal Draconic runes on the wall behind it.
+Those who know the Draconic language can read the
+runes as "Ashardalon."
+
+The spear belonged to a paladin of Pelor named Sir Braford, part
+of the adventuring group the players are looking for.
+
 
 {{HiddenRoom}}
 
