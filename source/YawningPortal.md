@@ -62,6 +62,13 @@ doesn't glamorize adventure, and will tell you to go elsewhere.
 {{Quest1}}
 
 # RESCUE MISSION
+
+Kerowyn Hucrele is from Oakhurst, and desperately needs help.
+She didn't think she would find it in [Galethspyre]({@Galethspyre})
+because they're rich assholes. At least in the Yawning Portal,
+the assholes are adventurers who perk up at the promise of gold,
+glory, and an adrenaline rush.
+
 Another party of adventurers, locally based, delved
 into the Sunless Citadel a month past. They were never
 seen again . Two human members of that ill-fated party
@@ -76,3 +83,5 @@ brother and sister. She also offers a reward of 125 gp
 per signet ring, per character. If the characters bring
 back the Hucreles in good shape (of good mind and
 body), she offers to double the reward.
+
+If you follow her, you'll take the magic train from Ardev to the ["nowhere station"]({@NowhereStation}) and walk from there to Oakhurst on the Old road.

@@ -1,5 +1,7 @@
 {{Galethspyre1}}
 
+# Galethspyre
+
 High-society city that doesn't think or act very favorably towards the farming
 village, [Oakhurst.]({@Oakhurst1})
 

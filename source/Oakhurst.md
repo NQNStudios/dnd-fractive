@@ -1,3 +1,16 @@
+{{NowhereStation}}
+
+# Nowhere station
+
+Galethspyrans call this station the "Nowhere station" because the only people
+who ever disembark here, are heading to Oakhurst. They will laugh and murmer
+about the adventurers for going there.
+
+[The train runs to Galethspyre.]({@Galethspyre1})
+The train runs to Ardev.
+
+[The Old Road leads to Oakhurst from here.]({@Oakhurst1})
+
 {{Oakhurst1}}
 
 # Oakhurst
@@ -6,6 +19,10 @@ Farming village dealing with an outbreak of the flu, and from which a local
 band of adventurers has gone missing.
 
 [The Ol' Boar Inn]({@OakhurstTavern})
+[Naronder's science compound]({@NarondersCompound})
+
+[The Old Road leads to the Nowhere station.]({@NowhereStation})
+[The Old Road leads to the ravine where the Sunless Citadel is sunk.]({@Citadel1})
 
 {{OakhurstTavern}}
 
