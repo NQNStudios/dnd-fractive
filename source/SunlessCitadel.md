@@ -134,7 +134,16 @@ contains a trap and a wooden door.
 [Creatures.]({@CourtyardCreatures:inline})
 [Hidden pit.]({@HiddenPit})
 
+##[Duva's rat]({@DuvasRat:inline})
+
 [Wooden Door]({@TowerShell}).
+
+{{DuvasRat}}
+
+While fighting the 3 rats at the top of the Ledge, Duva squeaked with
+one of them, which explained that the rats were only hungry. She gave the rat
+food, but it fled off into the ravine when the rest of the group slaughtered
+its two friends.
 
 {{MasonryDebris}}
 
