@@ -1,7 +1,7 @@
 {{Start}}
 
 [World map]({@FullsizeMap:inline})
-[Where we last left off]({@TowerShell})
+[Where we last left off]({@YawningPortal1})
 
 # Locations
 
